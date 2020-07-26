@@ -98,3 +98,28 @@ a{
     padding: 50px;
 }
 
+.myForm{
+    display: flex ;
+    flex-direction: column ;
+    justify-content:space-around ;
+    align-content: center ;
+    text-align: center ;
+    min-height: 80vh;
+    margin: auto;
+    color: white;
+}
+.form-group{
+    margin-left: 10px;
+    width: 100%;
+    align-content: space-around;
+    
+}
+.form-control{
+    background-color: rgba(255, 255, 255, 0) !important;
+    color: white !important;
+    border: thin solid white;
+}
+#myForm{
+    width: 50em;
+}
+
