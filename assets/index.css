@@ -50,6 +50,8 @@ a{
 .card{
     margin-bottom: 15px;
     height: 200px;
+    text-align: center;
+    justify-content: center;
 }
 #him{
     background-image: url('./portfolio/work3.jpg');
@@ -72,6 +74,18 @@ a{
 
 #hers{
     background-image: url('./portfolio/work7.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#us{
+    background-image: url('./portfolio/work1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#them{
+    background-image: url('./portfolio/work8.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
