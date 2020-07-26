@@ -135,7 +135,7 @@ a{
     float: left !important;
 }
 .myList{
-    width: 100%;
+   width: 100%;
    margin: 5vh auto;
    justify-content: center;
    display: flex;
@@ -149,4 +149,5 @@ a{
     justify-content: center;
     align-items: center;
     text-align: center;
+    padding: 0px;
 }
