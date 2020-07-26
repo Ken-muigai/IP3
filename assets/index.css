@@ -46,3 +46,20 @@ a{
 .col-sm-3{
     padding: 10px;
 }
+
+.card{
+    margin-bottom: 15px;
+    height: 200px;
+}
+#him{
+    background-image: url('./portfolio/work3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#her{
+    background-image: url('./portfolio/work6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
