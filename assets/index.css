@@ -153,6 +153,11 @@ a{
 
 #fom{
     position: absolute;
+    display: block;
     left: 500px;
-    top: 388%;
+    top: 386%;
+}
+
+#firstpara{
+    display: hidden;
 }
