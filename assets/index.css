@@ -131,3 +131,22 @@ a{
     width: inherit;
 }
 
+.list-inline-item{
+    float: left !important;
+}
+.myList{
+    width: 100%;
+   margin: 5vh auto;
+   justify-content: center;
+   display: flex;
+    
+}
+#foot{
+    width: 100%;
+    margin: auto !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
