@@ -89,3 +89,9 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+#footer{
+    background-image: url('./backgrounds/c_image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
