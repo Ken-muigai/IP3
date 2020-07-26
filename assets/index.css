@@ -91,27 +91,29 @@ a{
 }
 
 #footer{
-    height: 400px;
+    height: 500px;
     background-image: url('./backgrounds/c_image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding: 50px;
+    justify-content:center;
 }
 
-.myForm{
+#myForm{
     display: flex ;
     flex-direction: column ;
-    justify-content:space-around ;
+    justify-content:center ;
     align-content: center ;
     text-align: center ;
-    min-height: 80vh;
-    margin: auto;
-    color: white;
+    min-height: 50vh;
+    margin-left: 200px;
+    color: white !important;
 }
 .form-group{
     margin-left: 10px;
     width: 100%;
     align-content: space-around;
+    color: white !important;
     
 }
 .form-control{
@@ -121,5 +123,11 @@ a{
 }
 #myForm{
     width: 50em;
+}
+.btn-default{
+    border: 1px solid white !important;
+    color: white !important;
+    margin-left: 10px;
+    width: inherit;
 }
 
