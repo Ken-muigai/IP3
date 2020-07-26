@@ -63,3 +63,15 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+#his{
+    background-image: url('./portfolio/work2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#hers{
+    background-image: url('./portfolio/work7.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
