@@ -33,6 +33,7 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
+    width: 500px;
     
 }
 #me{
@@ -40,4 +41,8 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
+    width: 500px;
+}
+#few{
+    padding-bottom: 10px;
 }
