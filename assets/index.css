@@ -32,11 +32,17 @@ a{
     background-image: url('./portfolio/work4.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100px;
+    height: 200px;
+    
 }
 #me{
     background-image: url('./portfolio/work5.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
+}
+
+#need{
+    padding: 80px;
+    justify-content: space-around;
 }
