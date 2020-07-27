@@ -1,22 +1,29 @@
 DELANI STUDIO
+
+
 This is designed to bring together software needs with the right software solutions.
 By **Ken-Joel Gichuhi Muigai **
-Description
+
+Description:
+
 In a modern world where the forces of money have changed, Delani helps to bring live, small and middle businesses and to ensure their prosperity.
 
-Setup/Installation Requirements
+Setup/Installation Requirements:
 VsCode
 Web-browser (Chrome preferred)
 
-Known Bugs
+
+Known Bugs:
+
 There are no known bugs
 
-Technologies Used
+Technologies Used:
+
 CSS, CSS(Bootstrap), HTML *JavaScript,Jquery
 
-Behaviour Driven Development
-The contents are aligned as they should be
-Images toggle on hover to give the best user experience (Jquery)
+Behaviour Driven Development:
+The contents are aligned as they should be,
+Images toggle on hover to give the best user experience (Jquery),
 Mail submits
 
 Also feel free to fork, clone this project and make any necessary changes.
