@@ -158,6 +158,10 @@ a{
     top: 386%;
 }
 
-#firstpara{
+#image{
+    text-align: center;
+}
+
+#paragraph{
     display: hidden;
 }

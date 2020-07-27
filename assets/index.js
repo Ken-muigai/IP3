@@ -1,6 +1,12 @@
 $(document).ready(function(){
-    $('#design').click(function(){
-        $("firstpara").toggle()
-        $("design").toggle();
+    $('#image').click(function(){
+        $('#image').hide()
+        $('#paragraph').show();
+    });
+
+    $('#paragraph').click(function(){
+        $('#image').show()
+        $('#paragraph').hide();
     })
+
 })
