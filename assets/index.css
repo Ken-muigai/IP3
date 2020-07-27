@@ -30,7 +30,7 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
     padding: 50px;
-    justify-content:center;
+    width: 100%;
 }
 
 #myForm{
@@ -86,9 +86,10 @@ a{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    margin-left:15%;
+    margin-left:9%;
     margin-right: 16%;
     padding: 35px;
+    width: 83%;
 }
 
 #sweet h2{
@@ -135,4 +136,16 @@ a{
 
 #lastimg{
     text-align: center;
+}
+
+#what h2{
+    padding: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana, sans-serif';
+}
+
+#overlayone,#overlaytwo,#overlaythree,#overlayfour,#overlayfive,#overlaysix,#overlayseven,#overlayeight{
+    position: absolute;
+    top: 0px;
+    text-align: center;
+
 }
