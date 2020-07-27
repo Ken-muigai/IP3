@@ -165,3 +165,19 @@ a{
 #paragraph{
     display: none;
 }
+
+#serviceImage{
+    text-align: center;
+}
+
+#serviceParagraph{
+    display: none;
+}
+
+#lastpara{
+    display: none;
+}
+
+#lastimg{
+    text-align: center;
+}

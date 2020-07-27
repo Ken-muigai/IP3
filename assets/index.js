@@ -10,3 +10,38 @@ $(document).ready(function(){
     })
 
 })
+
+$(document).ready(function(){
+    $('#serviceImage').click(function(){
+        $("#serviceImage").hide();
+        $("#serviceParagraph").show();
+    })
+
+    $("#serviceParagraph").click(function(){
+        $("#serviceParagraph").hide();
+        $("#serviceImage").show();
+    })
+})
+
+$(document).ready(function(){
+    $('#serviceImage').click(function(){
+        $("#serviceImage").hide();
+        $("#serviceParagraph").show();
+    })
+
+    $("#serviceParagraph").click(function(){
+        $("#serviceParagraph").hide();
+        $("#serviceImage").show();
+    })
+})
+
+$(document).ready(function(){
+    $('#lastimage').click(function(){
+        $("#lastimage").hide();
+        $("#lastpara").show();
+    })
+    $("#lastpara").click(function(){
+        $("#lastpara").hide();
+        $("#lastimage").show();
+    })
+})
