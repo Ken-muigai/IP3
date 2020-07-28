@@ -21,9 +21,9 @@ There are no known bugs
 CSS, CSS(Bootstrap), HTML *JavaScript,Jquery
 
 ## Behaviour Driven Development
-The contents are aligned as they should be,
-Images toggle on hover to give the best user experience (Jquery),
-Mail submits.
+-The contents are aligned as they should be,
+-Images toggle on hover to give the best user experience (Jquery),
+-Mail submits as it should
 ---
 Also feel free to fork, clone this project and make any necessary changes.
 Link to live site
