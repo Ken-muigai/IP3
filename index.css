@@ -110,7 +110,7 @@ a{
     position: absolute;
     display: block;
     left: 540px;
-    top: 420%;
+    top: 390%;
 }
 
 #clad{
@@ -203,4 +203,13 @@ a{
       margin-left:8%;
       margin-right: 16%; 
     }
+  }
+
+  .nav{
+      position: sticky;
+      top: 10px;
+  }
+  
+  .nav-link{
+      color: darkgoldenrod;
   }
