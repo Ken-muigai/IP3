@@ -213,3 +213,7 @@ a{
   .nav-link{
       color: darkgoldenrod;
   }
+
+  .container{
+      padding: 10px;
+  }
