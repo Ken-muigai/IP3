@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 # DELANI STUDIO
----
-
-=======
-DELANI STUDIO	
->>>>>>> 7a400ca69116c00672548a55cb7307255f122c5c
 This is designed to bring together software needs with the right software solutions.
 ---
 By **Ken-Joel Gichuhi Muigai **
@@ -16,13 +10,8 @@ In a modern world where the forces of money have changed, Delani helps to bring 
 ## Setup/Installation Requirements:
 VsCode
 Web-browser (Chrome preferred)
-<<<<<<< HEAD
 ---
 ## Known Bugs:
-=======
-
-Known Bugs:
->>>>>>> 7a400ca69116c00672548a55cb7307255f122c5c
 
 There are no known bugs
 
